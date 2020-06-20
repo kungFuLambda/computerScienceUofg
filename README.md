@@ -4,7 +4,7 @@
 screenshots/userView.png
 ![alt text](https://github.com/kungFuLambda/computerScienceUofg/blob/master/screenshots/calendarView.png)
 ![alt text](https://github.com/kungFuLambda/computerScienceUofg/blob/master/screenshots/userView.png)
-![alt text](https://github.com/kungFuLambda/computerScienceUofg/blob/master/screenshots/screenshots/gradeView.png)
-![alt text](https://github.com/kungFuLambda/computerScienceUofg/blob/master/screenshots/screenshots/settingsView.png)
-![alt text](https://github.com/kungFuLambda/computerScienceUofg/blob/master/screenshots/screenshots/socsView.png)
+![alt text](https://github.com/kungFuLambda/computerScienceUofg/blob/master/screenshots/gradeView.png)
+![alt text](https://github.com/kungFuLambda/computerScienceUofg/blob/master/screenshots/settingsView.png)
+![alt text](https://github.com/kungFuLambda/computerScienceUofg/blob/master/screenshots/socsView.png)
 
