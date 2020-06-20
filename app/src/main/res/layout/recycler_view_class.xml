@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:padding="20dp"
+    android:paddingBottom="0dp"
+
+    android:background="@drawable/class_background"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <TextView
+        android:text="placeholder name"
+        android:textAlignment="center"
+        android:textColor="@color/classText"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginBottom="50dp"
+        android:id="@+id/class_name"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        />
+    <TextView
+        android:text="placeholder place"
+        android:textColor="@color/classText"
+        android:textSize="15dp"
+        android:id="@+id/class_location"
+        app:layout_constraintTop_toBottomOf="@+id/class_name"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        />
+    <TextView
+        android:text="placeholder lecturer"
+        android:textColor="@color/classText"
+        android:textSize="14dp"
+        android:id="@+id/class_lecturer"
+        app:layout_constraintTop_toBottomOf="@+id/class_location"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        />
+    <TextView
+        android:text="placeholder time"
+        android:textColor="@color/classText"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:id="@+id/class_time"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

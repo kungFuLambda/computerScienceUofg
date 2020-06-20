@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C1F409</color>
+    <color name="colorPrimaryDark">#1F1C20</color>
+    <color name="colorAccent">#C1F409</color>
+    <color name="loaderStuff">#686868</color>
+
+    <color name="classBackground">#D8D8D8</color>
+    <color name="classBorder">#C1F409</color>
+    <color name="classText">#000000</color>
+    <color name="timeText">#C1F409</color>
+
+    <color name="progressBackground">#000000</color>
+    <color name="progressBarAccent">#000000</color>
+    <color name="mainBackground">#C3C3C3</color>
+</resources>

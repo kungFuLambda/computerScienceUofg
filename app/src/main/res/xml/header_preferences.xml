@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:fragment="com.example.classviewer.SettingsActivity$CredentialsFragment"
+        app:icon="@drawable/ic_key"
+        app:key="messages_header"
+        app:title="@string/credentials_header" />
+
+    <Preference
+        app:fragment="com.example.classviewer.SettingsActivity$SocsFragment"
+        app:icon="@drawable/ic_grades"
+        app:title="@string/SoCS_Credentials"/>
+
+
+</PreferenceScreen>
