@@ -1,6 +1,6 @@
 # computerScienceUofg
 
-##App to get classes, and grades from soCs all in one place
+## App to get classes, and grades from soCs all in one place
 Enter your username and password and all the requests are made with those credentials. 
 Easy to use and very straightforward, altough passwords are stored in cleartext on the app.
 
